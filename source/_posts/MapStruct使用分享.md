@@ -2,7 +2,10 @@
 title: MapStruct使用分享
 date: 2024-02-26
 tags: mapStruct
-categories: JAVA插件
+categories: 
+- 开发
+- JAVA
+- 提效组件
 ---
 ## 简介
 
