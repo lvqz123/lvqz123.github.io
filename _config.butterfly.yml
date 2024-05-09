@@ -40,11 +40,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /images/logo.webp
+favicon: /images/宇航员.png
 
 # Avatar (頭像)
 avatar:
-  img: /images/jiayou.jpg
+  img: /images/headPicture.webp
   effect: false
 
 # Disable all banner image
